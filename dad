@@ -1,0 +1,84 @@
+[33mcommit 1ed2e1ae2c5b9db3dd9adb5be5e65c3c6cface96[m[33m ([m[1;36mHEAD -> [m[1;32mstaging[m[33m)[m
+Author: Muh Fachrul <muhfachrul720@gmail.com>
+Date:   Thu Jul 30 20:03:39 2020 +0700
+
+    pengajuan cuti sisa export ke pdf
+
+[33mcommit 19d70cfeca037314884677c41d0ca47356eb6ede[m[33m ([m[1;31morigin/staging[m[33m)[m
+Author: Muh Fachrul <muhfachrul720@gmail.com>
+Date:   Tue Jul 28 16:50:54 2020 +0700
+
+    Data Induk Pegawai
+
+[33mcommit fd5f535e56cdebc9fa4ae1145d4f212a463d0a61[m
+Author: Muh Fachrul <muhfachrul720@gmail.com>
+Date:   Fri Jul 24 12:21:19 2020 +0700
+
+    DUK sama Ajuan 50%
+
+[33mcommit aca82199fdfaacd5086be028b7af5b5145aa4746[m
+Author: Muh Fachrul <muhfachrul720@gmail.com>
+Date:   Wed Jul 22 10:27:17 2020 +0700
+
+    DUK 30%
+
+[33mcommit 12187a980db67e3f5382cf016b9a748e9f91a5fd[m
+Author: Muh Fachrul <muhfachrul720@gmail.com>
+Date:   Mon Jul 20 20:54:47 2020 +0700
+
+    commit 1
+
+[33mcommit 21aa91e1225feeb946b7b3836509b30c63a696e5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ilham J.E <ilham5566@gmail.com>
+Date:   Mon Jul 20 21:36:15 2020 +0800
+
+    Lengkap controller menu dan function
+
+[33mcommit 72b0bf8f3889f7aa436e6cbd8bcd739470e37ff2[m
+Author: Muh Fachrul <muhfachrul720@gmail.com>
+Date:   Mon Jul 20 19:17:07 2020 +0700
+
+    DB Modificate
+
+[33mcommit 82f0da4c39d0ee894256d8cac02459f6fd3ae7fe[m
+Author: Muh Fachrul <muhfachrul720@gmail.com>
+Date:   Sun Jul 19 16:45:16 2020 +0700
+
+    First stage
+
+[33mcommit 6cb05a413568e991f6408c4f64702764f43e99c2[m[33m ([m[1;31morigin/stagging[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 53c95d9 beddda8
+Author: kendaricoding <kendaricoding@gmail.com>
+Date:   Sat Jul 18 22:44:36 2020 +0800
+
+    Merge branch 'master' of github.com:iqkyu5566/sisfak
+
+[33mcommit 53c95d9691fb43bd6a02c310d2e09410a430f981[m
+Author: kendaricoding <kendaricoding@gmail.com>
+Date:   Sat Jul 18 22:41:24 2020 +0800
+
+    branch master done, database ganti
+
+[33mcommit beddda8c50a22db3624e7a88467ebc5cdf0b6b5f[m
+Author: Ilham J.E <ilham5566@gmail.com>
+Date:   Sat Jul 18 22:12:30 2020 +0800
+
+    Update README.md
+
+[33mcommit a1084c3527330c6fa25316e71e5c161bca2eac87[m
+Author: kendaricoding <kendaricoding@gmail.com>
+Date:   Sat Jul 18 22:08:25 2020 +0800
+
+    penambahan file database
+
+[33mcommit 5222aca806b2115840c04e4d03e0c0c46562216a[m
+Author: kendaricoding <kendaricoding@gmail.com>
+Date:   Sat Jul 18 21:49:07 2020 +0800
+
+    Template coding
+
+[33mcommit 7987d1af310d11ef7b6c5706a9bf923bb54e2a4e[m
+Author: Ilham J.E <ilham5566@gmail.com>
+Date:   Sat Jul 18 21:28:47 2020 +0800
+
+    Initial commit

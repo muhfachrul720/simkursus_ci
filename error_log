@@ -1,0 +1,2 @@
+[23-Jun-2019 21:10:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/apauhowe/public_html/application/views/template.php on line 65
+[30-Jun-2019 07:47:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_report::lihat_laporan() in /home/apauhowe/public_html/application/controllers/Report.php on line 60
